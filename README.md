@@ -1,0 +1,1 @@
+# Animated-QR-Code-Generator
