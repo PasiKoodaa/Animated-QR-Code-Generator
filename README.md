@@ -3,7 +3,7 @@
 
 A minimal, single-file web app that generates **living, scannable animated QR codes**. Static QR codes are boring—this tool brings them to life with real-time canvas animations while preserving 100% scannability.
 
-[qr-animated(1).webm](https://github.com/user-attachments/assets/110d6b04-fb65-4bdb-acdf-22d69f7a59f8)
+<img width="328" height="328" alt="qr-animated" src="https://github.com/user-attachments/assets/4a32ebfa-2c23-4b37-a83c-c602e6e17f29" />
 
 ---
 
