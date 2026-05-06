@@ -1,9 +1,9 @@
-```markdown
+
 # 🌊 Animated QR Code Generator
 
 A minimal, single-file web app that generates **living, scannable animated QR codes**. Static QR codes are boring—this tool brings them to life with real-time canvas animations while preserving 100% scannability.
 
-![Animated QR Demo](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![Zero Dependencies](https://img.shields.io/badge/Build-Single_HTML_File-blue?style=flat-square) ![Scannable](https://img.shields.io/badge/QR_Code-Scannable-success?style=flat-square)
+[qr-animated(1).webm](https://github.com/user-attachments/assets/110d6b04-fb65-4bdb-acdf-22d69f7a59f8)
 
 ---
 
@@ -52,7 +52,6 @@ You can export your animated QR code in three formats:
 
 - **UI:** Vanilla HTML/CSS with `Space Grotesk` font.
 - **Rendering:** HTML5 Canvas API (`roundRect`, `shadowBlur`, device pixel ratio scaling).
-- **QR Logic:** [qrcode-generator](https://github.com/niclas/qrcode-generator) (loaded via CDN).
 - **Video Export:** Native `MediaRecorder` + `canvas.captureStream()`.
 - **Icons:** Font Awesome 6.
 
@@ -64,7 +63,7 @@ No installation required.
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/animated-qr.git
+   git clone https://github.com/PasiKoodaa/Animated-QR-Code-Generator
    ```
 2. Open `index.html` in any modern web browser.
 
